@@ -67,3 +67,10 @@ make clean
 
 ## Contact me
 via my email : ms_chattah@esi.dz or discord : @salsabila_20
+
+## Credits
+I have been keyed out about the whole kernel programming/exploitation thing lately, so here are some useful resources:
+
+- Writing a Simple Linux Kernel Module : https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234
+
+- Linux Kernel Pwn - Part 1 : https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/

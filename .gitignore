@@ -1,0 +1,27 @@
+# Object files and compiled binaries
+*.o
+*.ko
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+*.cmd
+
+# Hidden build artifacts
+.*.cmd
+.modules.order
+.Module.symvers
+..module-common.o.cmd
+.module-common.o
+
+# Editor/IDE files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Backup files
+*~
+
+#others
+*.mod
